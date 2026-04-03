@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+pyjwt
+streamlit
+hdbcli
+python-dotenv
+pydantic
